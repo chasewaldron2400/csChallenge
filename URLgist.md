@@ -63,3 +63,9 @@ This regular expression is designed to accurately match and validate URLs.
 
 This document was created by Chase Waldron 11/4/2024
 https://github.com/chasewaldron2400
+
+## Sources
+
+- Chase Waldron
+- NW Tutor Session
+- https://www.youtube.com/watch?v=lm4ZLfDr1vk
